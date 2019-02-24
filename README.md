@@ -5,7 +5,6 @@ Contains:
  - Redux observable
  - RXJS
  - Node Sass
- - Highcharts (you can just remove the dependency from packaje.json if you dont want it)
 
 
 ## Instructions
